@@ -1,1 +1,0 @@
-This file is for the SQL database projects
