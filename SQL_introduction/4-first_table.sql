@@ -2,7 +2,7 @@
 
 -- USE DATABASE;                -- If you want to pass the database name on command line you dont include this line
 
-CREATE SCHEMA IF NOT EXISTS hbtn_0c_0;
+CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
 
 USE hbtn_0c_0;
 
